@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/jonathanv3232/sketchit#readme",
   "dependencies": {
+    "express": "^4.16.2",
     "socket.io": "^2.0.4"
   }
 }
