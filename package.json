@@ -1,0 +1,27 @@
+{
+  "name": "sketchit",
+  "version": "1.0.0",
+  "description": "Using canvas and socketio to have multiple people sketch things out",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanv3232/sketchit.git"
+  },
+  "keywords": [
+    "socket.io",
+    "node",
+    "canvas"
+  ],
+  "author": "Jonathan Vargas <me@jonathan-vargas.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonathanv3232/sketchit/issues"
+  },
+  "homepage": "https://github.com/jonathanv3232/sketchit#readme",
+  "dependencies": {
+    "socket.io": "^2.0.4"
+  }
+}
